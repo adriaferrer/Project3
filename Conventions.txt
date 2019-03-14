@@ -1,0 +1,14 @@
+Main conventions:
+
+Variables:
+- Snake type
+
+Functions:
+- First word of the name of the function should be a verb that defines the main objective of the function
+
+Libraries:
+- Main libraries to be used: Pandas, sqlalchemy, seaborn, timedate
+- We will define libraries for specific processes (e.g. cleaning data)
+
+Common conventions:
+- PEP8
